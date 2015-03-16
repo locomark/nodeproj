@@ -1,0 +1,11 @@
+{
+  "name": "nodeproj",
+  "version": "0.1.0",
+  "description": "Node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mark LoSacco",
+  "license": "Apache 2.0"
+}
