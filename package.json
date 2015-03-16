@@ -7,5 +7,8 @@
     "test": "mocha"
   },
   "author": "Mark LoSacco",
-  "license": "Apache 2.0"
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
 }
